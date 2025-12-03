@@ -19,5 +19,7 @@ int main() {
         {1, 1, 1, 1, 0, 1, 1}  // 9
     };
 
+
+    // chega de programação por uns dias...
     return 0;
 }
