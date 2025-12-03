@@ -1,8 +1,10 @@
 #include <stdio.h>
 
 int main() {
-    char horizontal[3] = {' ___'};
-    char vertical[5] = {'|   |'};
+    char horizontal = '_';
+    char vertical = '|';
+    char off = ' ';
+    char display[5][3];
 
     return 0;
 }
